@@ -47,7 +47,7 @@ Bu komut, Expo CLI ile uygulamayı başlatacak ve QR kodu ile tarayıcınıza ve
 - Kitap verilerini uygulamanın durumu dışında saklamak için AsyncStorage kullanılmıştır.
 - Minimalist bir UI tasarımı ile kullanıcı dostu bir arayüz oluşturulmuştur.
 
-## Kitap Nesnesi
+## Kitap Sınıfı
 - Kitap Adı
 - Kitap Tanımı
 - ISBN numarası
