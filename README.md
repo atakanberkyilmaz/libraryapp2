@@ -42,6 +42,7 @@ Bu komut, Expo CLI ile uygulamayı başlatacak ve QR kodu ile tarayıcınıza ve
     yarn install -> yukarıdaki komut çalışmazsa
     expo start -> Bu komutla beraber açtığınız emulatorde metro bundler başlar
     yarn start -> Bu komut ile beraber emulator ve yazdığımız kodlar arasında metro aracılığı ile bağlantı sağlıyoruz
+    yarn add @reduxjs/toolkit -> redux toolkit kullanabilmek için
 ## Teknik Seçimler ve Gerekçelendirmeler
 - Farklı ekranlar arasında gezinmek için React Navigation kütüphanesi kullanılmıştır.
 - Kitap verilerini uygulamanın durumu dışında saklamak için AsyncStorage kullanılmıştır.
