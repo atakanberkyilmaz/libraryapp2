@@ -5,8 +5,8 @@ import { addBook, updateBook } from '../store/BookSlice';
 import Book from '../types/Book';
 
 interface BookFormProps {
-  book?: Book; // Optional prop to pass existing book data when editing
-  onSubmit: () => void; // Callback function to trigger after submitting the form
+  book?: Book; 
+  onSubmit: () => void; 
 }
 
 const BookForm: React.FC<BookFormProps> = ({ book, onSubmit }) => { //FC -> Functional Component 
