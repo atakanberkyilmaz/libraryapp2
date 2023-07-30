@@ -1,5 +1,5 @@
 interface Book {
-    id: string; //int de olabilir ama riske atmak istemedim
+    id: string; // number'da olabilir
     title: string;
     isbn: string;
     authors: string[];
