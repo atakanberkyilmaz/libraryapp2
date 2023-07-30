@@ -60,3 +60,12 @@ Bu komut, Expo CLI ile uygulamayı başlatacak ve QR kodu ile tarayıcınıza ve
 - Kitap adı, ISBN numarası, yazarlar ile arama, filtreleme ve sıralama yapılabilir.
 - Sisteme yeni bir kitap eklenip mevcut kitaplar düzenlenebilir ve silinebilir.
 - Kitaplar bir sayfada liste halinde görüntülenebilir ve bir kitabın detay bilgileri incelenebilir.
+## Yardım Aldığım Videolar ve Araçlar
+- [Redux 1](https://www.youtube.com/watch?v=4gQT69mga2Q)
+- [Redux 2](https://www.youtube.com/watch?v=y13lq_8oDnk)
+- [Geleceği Yazanlar React Native 101](https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/react-native-101)
+- [Typescript 1](https://www.youtube.com/watch?v=H8qOotIAaEA)
+- [Typescript 2](https://www.youtube.com/watch?v=JaaTll3ukLw&t=1750s)
+- [React Native](https://reactnative.dev/docs/components-and-apis)
+- [Setup](https://reactnative.dev/docs/environment-setup)
+  
